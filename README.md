@@ -1,7 +1,7 @@
 # ShipRealtime
 
 This is a simple demo project using Rxjs Websocket Subject in order to run real-time updates of vessels positions/data on a Mapbox GL map. 
-The project requires its server-side counterpart to work. See (ships-realtime-demo-server)[https://github.com/marcodelpercio-oneocean/ships-realtime-demo-server].
+The project requires its server-side counterpart to work. See [ships-realtime-demo-server](https://github.com/marcodelpercio-oneocean/ships-realtime-demo-server).
 The project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 9.1.9.
 
 ## Before you run: ng serve
